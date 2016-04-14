@@ -1,0 +1,19 @@
+{
+    "name": "liuwe/data-api",
+    "description": "data-api",
+    "license": "Apache2",
+    "authors": [
+        {
+            "name": "liuwel",
+            "email": "liuwel@live.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0"
+    },
+    "autoload":{
+        "psr-4":{
+            "liuwel\\dal":"src"    
+        }
+    }
+}
