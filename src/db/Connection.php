@@ -1,6 +1,6 @@
 <?php
 //
-namespace liuwel\dal\db;
+namespace DataAccess\db;
 
 class Connection {
 
