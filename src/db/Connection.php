@@ -1,8 +1,8 @@
 <?php
 //
 namespace DataAccess\db;
-class Connection {
-
-
-
+class DataAccess {
+    public static function getDbConnection(){
+        return null;
+    }
 }
